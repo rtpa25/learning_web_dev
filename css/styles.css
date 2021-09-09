@@ -1,0 +1,76 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin-top: 0px;
+    font-size: 5.23em;
+    font-family: 'Mrs Saint Delafield', cursive;
+    color: #45b29a;
+    margin-bottom: 0;
+    line-height: 2;
+}
+
+.p {
+    color: #45b29a;
+    font-size: 1.52em;
+    margin-top: 0;
+    font-weight: normal;
+    font-family: "brandon-grotesque", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top_container {
+    position: relative;
+    background-color: #E4F9F5;
+}
+
+.anim1 {
+    position: relative;
+    left: 34%;
+}
+
+.anim2 {
+    position: relative;
+    left: 20%;
+    float: left;
+    padding-right: 27%;
+    /* margin-right: 20% */
+}
+
+.anim3 {
+    position: relative;
+    left: 20%;
+}
+
+.cloud_2 {
+    position: absolute;
+}
+
+.cloud_1 {
+    margin-top: 6%;
+    position: relative;
+    left: 24%;
+}
+
+.footer-link {
+    color: #11999E;
+}
+
+.skill-row {
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    line-height: 2;
+}
